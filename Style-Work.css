@@ -1,0 +1,17 @@
+#wrapper {
+    width: 40% ;
+    padding: 40px ;
+
+}
+.boxtext {
+    border: 35px solid rgb(2, 15, 87);
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+.centertext {
+    border: 70px solid rgb(127, 129, 10);
+    background-color: yellow;
+    padding: 5px;
+    margin: 10px 130px 10px 10px;
+}
